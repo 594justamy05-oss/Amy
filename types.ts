@@ -1,9 +1,9 @@
 
 export enum CopyStyle {
-  UNCLE_GUN = 'UNCLE_GUN', // 金鎗大叔 - Direct Response
-  EILEEN = 'EILEEN', // 張愛玲 - Literary/Sensory
-  LU_XUN = 'LU_XUN', // 魯迅 - Critical/Sarcastic
-  WANG = 'WANG', // 王世堅 - Dramatic/Politician
+  UNCLE_GUN = 'UNCLE_GUN', // 金鎗大叔 - Direct Response / Sales
+  EILEEN = 'EILEEN', // 張愛玲 - Literary / Sensory
+  LU_XUN = 'LU_XUN', // 魯迅 - Critical / Sarcastic
+  WANG = 'WANG', // 王世堅 - Dramatic / Politician
 }
 
 export interface StyleConfig {
